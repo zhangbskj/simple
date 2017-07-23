@@ -1,4 +1,3 @@
-- 关于我们
-    - [关于极客学院](about-us.md)
-    - [关于极客学院 Wiki](about-wiki.md)
-- [联系我们](contact.md)
+- [Chapter 1](chapter1.md)
+- [Chapter 2](chapter2.md)
+- [Chapter 3](chapter3.md)
